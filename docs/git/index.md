@@ -38,7 +38,7 @@ this [guide](https://docs.github.com/en/authentication/keeping-your-account-and-
 
 :::tip
 You can obtain Your PAT token Faster Using The Following Pre-filled PAT Template Link:
-👉 [**click here**](https://github.com/settings/personal-access-tokens/new?name=Xed%2Editor%20Git%20Integration&description=Xed%20Editor%20PAT%20for%20Git%20Integration&expires_in=none&contents=write&workflows=write&metadata=read)
+👉 [**click here**](https://github.com/settings/personal-access-tokens/new?name=Xed%20Editor%20Git%20Integration&description=Xed%20Editor%20PAT%20for%20Git%20Integration&expires_in=none&contents=write&workflows=write&metadata=read)
 
 👉 [**Read more about this**](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#pre-filling-fine-grained-personal-access-token-details-using-url-parameters)
 :::
